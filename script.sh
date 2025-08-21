@@ -26,6 +26,7 @@ cd ../ansible
 ansible-playbook main.yml
 }
 
+
 prepare_vm
 create_ec2
 update_ip
